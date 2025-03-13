@@ -1,5 +1,5 @@
 
-const { calculate, getHistory, clearHistory } = require("./calculator.js");
+const { calculate, getHistory, clearHistory } = require("../calculator.js");
 
 describe("Calculator functions", () => {
   beforeEach(() => {
